@@ -1,7 +1,3 @@
-<h5 align="center"><img style="width: 300px; height:150px;" src="https://i.dlpng.com/static/png/5425300-github-logo-free-logo-icons-github-logo-png-1200_630_preview.png"/>
-</h5>
-
-
 <h1 align="center">Github Repositories </h1>
 
 <h4 align="center">
