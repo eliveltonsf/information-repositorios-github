@@ -17,7 +17,7 @@
 
   <img alt="javascript" src="https://img.shields.io/badge/javascript-97.1%25-yellow.svg?cacheSeconds=2592000?style=flat&logo=javascript" />
 
-  <img alt="html" src="https://img.shields.io/badge/javascript-2.9%25-red.svg?cacheSeconds=2592000?style=flat&logo=html5" />
+  <img alt="html" src="https://img.shields.io/badge/html-2.9%25-red.svg?cacheSeconds=2592000?style=flat&logo=html5" />
 
   <img alt="react" src="https://img.shields.io/badge/react-16.13.1-blue.svg?cacheSeconds=2592000?style=flat&logo=react" />
 
